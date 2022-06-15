@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "6854133777",
+    "firebase_url": "https://qbix-2ab4f.firebaseio.com",
+    "project_id": "qbix-2ab4f",
+    "storage_bucket": "qbix-2ab4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6854133777:android:d660c28ec4dd4c7f4a89b0",
+        "android_client_info": {
+          "package_name": "com.virtoustack.qbix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6854133777-5hkijr6use94rqbkq7unusapnnu9bibf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virtoustack.qbix",
+            "certificate_hash": "65100aa02e208c511be2103e82fa0a9d0f3ea262"
+          }
+        },
+        {
+          "client_id": "6854133777-rf1c8sm1bm771qfkcnc0lf54c087lltc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virtoustack.qbix",
+            "certificate_hash": "641a72507a46dda9035179738ebe9248deffaf7a"
+          }
+        },
+        {
+          "client_id": "6854133777-010rpjvs18sip5hbrf22uqmd0u0g03af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-725I6vro-GEoCSMmKQ0gJBHcyNM4tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6854133777-010rpjvs18sip5hbrf22uqmd0u0g03af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6854133777:android:5f4daa2c0b9427b64a89b0",
+        "android_client_info": {
+          "package_name": "com.virtoustack.qbix_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6854133777-97m05cq4pqi184o1ouhc4adh4mlsirft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virtoustack.qbix_admin",
+            "certificate_hash": "641a72507a46dda9035179738ebe9248deffaf7a"
+          }
+        },
+        {
+          "client_id": "6854133777-010rpjvs18sip5hbrf22uqmd0u0g03af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-725I6vro-GEoCSMmKQ0gJBHcyNM4tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6854133777-010rpjvs18sip5hbrf22uqmd0u0g03af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
